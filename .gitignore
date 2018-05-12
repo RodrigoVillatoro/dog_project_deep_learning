@@ -6,3 +6,7 @@ saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
 bottleneck_features/
 __pycache__/
+venv_dog/
+__MACOSX/
+*.pyc
+
